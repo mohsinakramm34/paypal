@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo img{
+    width: 30px;
+    height: 30px;
+    margin-left: 23px;
+
+}
+.person ul{
+    color:#003087;
+    font-size: 20px;
+    /* font-weight: 600; */
+}
+.mera{
+    color: #003087;
+    font-size: 18px;
+    border: 2px solid #003087;
+    border-radius: 15px;
+
+}
+.helle{
+    font-size: 20px;
+    /* padding-top: 20px; */
+    margin-right: 30px;
+}
+.about{
+    background-color: #142c8e;
+    padding: 40px 80px;
+}
+.here h2{
+    color: #fff;
+    font-size:52px;
+}
+.feature{
+    font-size: 20px;
+    color: aqua;
+    margin: 50px 0px;
+}
+.num{
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+
+}
+.maaa{
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 8px;
+}
+.meee{
+    width: 100%;
+    padding-left: 20px;
+}
+.merqqq{
+    background-color: #f9b822;
+    margin-top: 20px;
+}
+.boo{
+    border-right: 2px solid gray;
+}
+.buss{
+    color: #003087;
+}
+.baneer{
+    padding: 30px 50px;
+    font-size: 20px;
+    border-bottom: 1px solid gray ;
+    text-align: center;
+}
+.first{
+    padding:50px 90px ;
+}
+.edito{
+    width: 100%;
+    height: 90vh;
+}
+.mwaa{
+    margin-top: 30vh;
+}
+.mwaa h2{
+    font-size: 40px;
+    /* font-weight: ; */
+}
+.mwaa .para1{
+    font-size: 22px;
+}
+.bnpllink{
+    margin-top: 30px;
+}
+.second{
+    padding:50px 90px ;
+}
+.edito1{
+    width: 100%;
+    height: 70vh;
+    margin-top: 50px;
+}
+
+.third{
+    padding:50px 90px ;
+
+}
+.lastfod{
+    background-color: #003087;
+}
+.join{
+    padding-top: 10%;
+    color: #fff;
+    align-items: center;
+    text-align: center;
+}
+.freee{
+    margin-top: 20px;
+    margin-left: 40%;
+    /* align-items: center; */
+    background-color: #fff;
+    color: #142c8e;
+    padding: 5px 39px;
+    border-radius: 15px;
+}
